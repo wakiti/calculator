@@ -1,0 +1,28 @@
+body{
+    font-family: 'Outfit', sans-serif;
+}
+
+.image img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    border: 1px solid #ffffff;
+    float: left;
+    color: #ffffff;
+    
+    
+}
+
+img {
+    object-fit: cover;
+    width: 260px;
+    height: 200px;
+    margin: 15px 10px 0px 20px;
+    border-radius: 5px;
+  }
+
+  .img {
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+  }

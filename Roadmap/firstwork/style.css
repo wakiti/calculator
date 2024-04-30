@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Josefin Sans", sans-serif;
+    box-sizing: border-box;
+}
+
+.firstcontainer {
+    background-color: #34475b;
+    height: 60vh;
+}
+
+.secondcontainer {
+    background-color: #d8efef;
+}
+
+.thirdcontainer {
+    background-color: #c4dbdb;
+}
