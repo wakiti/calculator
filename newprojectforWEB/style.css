@@ -23,9 +23,22 @@ body {
     padding: 10px;
 }
 
-.resultbox {
+#result {
     border: 1px solid #000000;
     border-radius: 5px;
     background-color: #000000;
     height: 60px;
+    width: 55vh;
+    position: absolute;
+}
+
+.clear {
+    border: 2px solid #fa1212;
+    background-color: #fa1212;
+    border-radius: 5px;
+    width: 50px;
+    height: 60px;
+    margin-top: 60px;
+    position: relative;
+    margin-left: 48vh;
 }
